@@ -10,4 +10,4 @@ Les images nécessaire et sont dans le dossier `./images`
 
 Le but de cette exercice est d'arriver de façon relativement simple à quelque chose le plus proche possible de l'exemple projeté. Ne perdez pas de temps sur les petits détails, les elements aillant des dimensions sur l'exemple doivent etre respectées mais ceux n'en ayant pas sont à dimensioner "à peu prêt" 
 
-Ce qui compte le plus c'est le positionnement des eléments, ils doivent être aligné, centré et disposé de la meme facon sur votre rendu, si la taille diffère un peu c'est moins "grave" car cela peut etre corrigé facilement plus tard si voulu.
+Ce qui compte le plus c'est la bonne utilisation des éléments HTML et l'association avec le CSS. N'hésitez pas à faire des recherches google ou poser des question à chatgpt. Attention, si chatGPT fait sans que vous compreniez quoi que ce soit à ça réponse cela va se voir. Rappelez lui que vous êtes débutant, il vous fera des réponses plus simple et produira un code plus facile à comprendre.
